@@ -1,9 +1,11 @@
-WHEA Monitor by Forgotten Private Coalition (C7R) with Python
-Download .exe (Portable) from Google Drive: https://drive.google.com/drive/folders/1Iu37X7rpvOvg5b-a_vU0izbVFn-CHC24?usp=drive_link
-Внимание! Мои проекты не содержат вирусы но VirusTotal может их находить. Вы можете использовать не скомпилированные .py файлы для пользования программой.
+WHEA Monitor by Forgotten Private Coalition (C7R) with Python                                                           
+Download .exe (Portable) from Google Drive:                                                                             
+WHEA Monitor Relese 1.0 https://drive.google.com/file/d/1AjsXlCoSPvxjDFyXrzVHTHMx-rjDSrRj/view?usp=drive_link           
+WHEA Monitor Beta27 1.1 https://drive.google.com/file/d/1dcSsRd9ut6PZtC8CYRsGElLON3l0wfHi/view?usp=sharing              
+WHEA Monitor Beta34 1.1 https://drive.google.com/file/d/1fSPhsOnoRx1HDm1zlRucwXHQxc3Q2X2y/view?usp=sharing              
+WHEA Monitor Beta35 1.1 https://drive.google.com/file/d/1HBKPiXs2UZDpjWi215H7Z2wa0Ft6t-qd/view?usp=sharing              
+WHEA Monitor Beta37 1.1 https://drive.google.com/file/d/1fgIe7TyPQI6qFOYApTB1bxoyssqIFtP7/view?usp=sharing              
 
-Использованные ускорители и оптимизаторы кода (Кодовое название и семейство)
-LTC Kholid (Kholid)
-LTC Extreme (Kholid)
-Parrot Comet (Comet)
-Ускорители и оптимизаторы кода используюся только в скомпилированной версии WHEA Monitor
+Внимание! Мои проекты не содержат вирусы но VirusTotal и Google могут их обнаружить.                           
+Для запуска .py файла требуется скачать Python последней версии и все необходимые модули!                      
+Комманда для скачивания всех необходимых модулей: pip install pywin32 pyqt6                                     
